@@ -1,0 +1,16 @@
+/home/eceege/Belgeler/VSCode/ContentModerator/bin/Debug/net5.0/ContentModerator
+/home/eceege/Belgeler/VSCode/ContentModerator/bin/Debug/net5.0/ContentModerator.deps.json
+/home/eceege/Belgeler/VSCode/ContentModerator/bin/Debug/net5.0/ContentModerator.runtimeconfig.json
+/home/eceege/Belgeler/VSCode/ContentModerator/bin/Debug/net5.0/ContentModerator.runtimeconfig.dev.json
+/home/eceege/Belgeler/VSCode/ContentModerator/bin/Debug/net5.0/ContentModerator.dll
+/home/eceege/Belgeler/VSCode/ContentModerator/bin/Debug/net5.0/ref/ContentModerator.dll
+/home/eceege/Belgeler/VSCode/ContentModerator/bin/Debug/net5.0/ContentModerator.pdb
+/home/eceege/Belgeler/VSCode/ContentModerator/obj/Debug/net5.0/ContentModerator.csproj.AssemblyReference.cache
+/home/eceege/Belgeler/VSCode/ContentModerator/obj/Debug/net5.0/ContentModerator.GeneratedMSBuildEditorConfig.editorconfig
+/home/eceege/Belgeler/VSCode/ContentModerator/obj/Debug/net5.0/ContentModerator.AssemblyInfoInputs.cache
+/home/eceege/Belgeler/VSCode/ContentModerator/obj/Debug/net5.0/ContentModerator.AssemblyInfo.cs
+/home/eceege/Belgeler/VSCode/ContentModerator/obj/Debug/net5.0/ContentModerator.csproj.CoreCompileInputs.cache
+/home/eceege/Belgeler/VSCode/ContentModerator/obj/Debug/net5.0/ContentModerator.dll
+/home/eceege/Belgeler/VSCode/ContentModerator/obj/Debug/net5.0/ref/ContentModerator.dll
+/home/eceege/Belgeler/VSCode/ContentModerator/obj/Debug/net5.0/ContentModerator.pdb
+/home/eceege/Belgeler/VSCode/ContentModerator/obj/Debug/net5.0/ContentModerator.genruntimeconfig.cache
